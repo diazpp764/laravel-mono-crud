@@ -1,1 +1,1 @@
-# laravel-mono-crud
+# laravel-mono-crud-github
